@@ -23,6 +23,7 @@ body {
     border-radius: 50px;
     background-color: #FDDE55;
     margin-right: 370px;
+    text-align: center;
 }
 .retangulo{
     display: flex;
